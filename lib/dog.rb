@@ -1,1 +1,5 @@
-# Your code goes here!
+Class Dog
+def bark
+  puts "woof!"
+
+end
